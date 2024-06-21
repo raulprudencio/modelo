@@ -2,7 +2,7 @@
 <!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.1//EN" "http://www.web3d.org/specifications/x3d-3.1.dtd">
 <X3D xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" profile="Immersive" xsd:noNamespaceSchemaLocation="http://www.web3d.org/specifications/x3d-3.1.xsd" version="3.1">
  <head>
-  <meta name="title" content="vasija_15000_caras_x3d.x3d"/>
+  <meta name="title" content="vasija.x3d"/>
   <meta name="description" content="Generated from Meshlab X3D Exported"/>
   <meta name="created" content="21 junio 2024"/>
   <meta name="generator" content="Meshlab X3D Exported, http://www.meshlab.net"/>
